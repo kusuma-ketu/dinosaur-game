@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "dinosaur-game"
+version = "0.1.0"
+description = ""
+authors = ["kusuma_.__ <rhshah199@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+gradio = "^4.40.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
